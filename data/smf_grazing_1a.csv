@@ -1,0 +1,11 @@
+,2018,2020,2022
+% Plant Cover,99,,81
+% Thatch,,,15
+% Bare Ground,1,,4
+% Native,5,,20
+% Non Native,95,,80
+Thatch Depth (inches),5,,3
+Herbivory on natives,n,,n
+Herbivory on non-natives,n,,n
+# Animal burrows,0,,20
+Stipa %,0.03,,0.19

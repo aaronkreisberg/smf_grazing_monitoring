@@ -1,0 +1,25 @@
+---
+title: "SMF Grazing Data"
+author: "Aaron Kreisberg"
+date: '2023-02-02'
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library()
+library(here)
+
+
+```
+
+```{r}
+veg_data_1a <- read.csv(here("data", "smf_grazing_1a.csv")) %>% 
+  clean_names()
+```
+
+```{r}
+
+```
+
